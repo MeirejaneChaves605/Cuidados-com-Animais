@@ -54,7 +54,5 @@ Este projeto foca em uma experiência de usuário limpa e intuitiva. Ele utiliza
 
 Desenvolvido por [Meirejane Chaves] - 2026 🐶🐱
 
-```
 
----
 
