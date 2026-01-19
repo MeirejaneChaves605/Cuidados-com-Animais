@@ -42,7 +42,7 @@ Este projeto foca em uma experiência de usuário limpa e intuitiva. Ele utiliza
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/petcare-landing-page.git](https://github.com/seu-usuario/petcare-landing-page.git)
+   git clone [https://github.com/MeirejaneChaves605/Cuidados-com-Animais.git](https://github.com/MeirejaneChaves605/Cuidados-com-Animais.git)
 
 ```
 
@@ -50,6 +50,15 @@ Este projeto foca em uma experiência de usuário limpa e intuitiva. Ele utiliza
 3. Inicie o arquivo `index.html` em seu navegador.
 
 ---
+
+ # 🐵 Ilustraçoes do site
+
+ <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/16681e81-5796-4ac2-ba86-3ef1ebcbda60" />
+ <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/15ef111e-4ab3-4086-b132-101cc05aa1b5" />
+ <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/7a004c62-2887-4074-94f3-87f4d3bfc51f" />
+ <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/afef7850-157a-47a9-a159-348e24f6d410" />
+ <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/519b1df1-c1a4-42e0-ac4b-575090635184" />
+ <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/ce4d0ed7-85b1-4c40-a2f0-63d5994ef668" />
 
 
 Desenvolvido por [Meirejane Chaves] - 2026 🐶🐱
