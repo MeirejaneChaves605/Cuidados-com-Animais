@@ -3,8 +3,6 @@
 
 Esta é uma excelente landing page para o nicho de animais de estimação. O uso do sistema de `grid` no CSS deixa o layout muito bem organizado e as cores escolhidas (`#ff6b6b` e `#4ecdc4`) transmitem uma sensação amigável e acolhedora.
 
-Aqui está o modelo de **README.md** ideal para este projeto:
-
 ---
 
 # 📄 README.md
