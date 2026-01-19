@@ -51,7 +51,7 @@ Este projeto foca em uma experiência de usuário limpa e intuitiva. Ele utiliza
 
 ---
 
- # 🐵 Ilustraçoes do site
+ # 🐵 Ilustrações do site
 
  <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/16681e81-5796-4ac2-ba86-3ef1ebcbda60" />
  <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/15ef111e-4ab3-4086-b132-101cc05aa1b5" />
