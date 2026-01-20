@@ -59,6 +59,17 @@ Este projeto foca em uma experiência de usuário limpa e intuitiva. Ele utiliza
  <img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/ce4d0ed7-85b1-4c40-a2f0-63d5994ef668" />
 
 
+
+#  🐼 Vídeo do site elaborado
+
+
+
+
+https://github.com/user-attachments/assets/c04b2cad-17ed-435b-8349-e934cd3a3825
+
+
+
+
 Desenvolvido por [Meirejane Chaves] - 2026 🐶🐱
 
 
