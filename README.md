@@ -60,16 +60,6 @@ Este projeto foca em uma experiência de usuário limpa e intuitiva. Ele utiliza
 
 
 
-#  🐼 Vídeo do site elaborado
-
-
-
-
-https://github.com/user-attachments/assets/c04b2cad-17ed-435b-8349-e934cd3a3825
-
-
-
-
 Desenvolvido por [Meirejane Chaves] - 2026 🐶🐱
 
 
